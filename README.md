@@ -1,1 +1,1 @@
-# s6arsene-do-it-yourself-automation
+# Eric-do-it-yourself
